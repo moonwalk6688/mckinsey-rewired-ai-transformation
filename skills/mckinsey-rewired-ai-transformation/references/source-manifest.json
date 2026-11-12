@@ -1,0 +1,2012 @@
+{
+  "title": "Rewired: McKinsey’s Playbook on How Leading Companies Win with Technology and AI (2nd ed.)",
+  "author": "Eric Lamarre、Kate Smaje、Rob Levin",
+  "source_path": null,
+  "source_env": "MCKINSEY_REWIRED_AI_TRANSFORMATION_SOURCE",
+  "sha256": "89a789ea5f2c8112e55837872396b9e35860bb77b85c23db30435ef3b1f68a71",
+  "source_lines": 10674,
+  "source_format": "PaddleOCR-VL-1.6 Markdown",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Inspired, aligned, and ready to go: Working with your top team",
+      "start_line": 445,
+      "end_line": 613,
+      "file": "chapters/ch01.md",
+      "sections": [
+        [
+          447,
+          "Inspired, aligned, and ready to go: Working with your top team"
+        ],
+        [
+          453,
+          "Building up tech-savvy senior executives"
+        ],
+        [
+          467,
+          "Typical elements of a Tech & AI learning journey for top teams"
+        ],
+        [
+          490,
+          "RULE OF THUMB"
+        ],
+        [
+          492,
+          "A minimum of 20 hours of learning"
+        ],
+        [
+          496,
+          "Aligning on a vision"
+        ],
+        [
+          506,
+          "Vision of business transformation with technology"
+        ],
+        [
+          528,
+          "Strategic flywheel example"
+        ],
+        [
+          542,
+          "Committing to lead differently"
+        ],
+        [
+          556,
+          "What it takes to lead a rewired organization"
+        ],
+        [
+          594,
+          "Rewired leaders embody the idea that a Tech & AI transformation"
+        ]
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The economics of Tech & AI transformations",
+      "start_line": 614,
+      "end_line": 787,
+      "file": "chapters/ch02.md",
+      "sections": [
+        [
+          616,
+          "The economics of Tech & AI transformations"
+        ],
+        [
+          636,
+          "Can a Tech & AI transformation materially improve my bottom line?"
+        ],
+        [
+          642,
+          "Economics of Tech & AI transformations"
+        ],
+        [
+          656,
+          "Time to cash accretive"
+        ],
+        [
+          667,
+          "Cash-on-cash return $ ^{1} $"
+        ],
+        [
+          680,
+          "What was the composition of these benefits?"
+        ],
+        [
+          692,
+          "How long does it take to be cash accretive?"
+        ],
+        [
+          706,
+          "What is the return on investment?"
+        ],
+        [
+          712,
+          "How long will the transformation take?"
+        ],
+        [
+          731,
+          "The economic portrait of successful Tech & AI transformers:"
+        ],
+        [
+          757,
+          "Do Tech & AI leaders outperform their industry peers?"
+        ],
+        [
+          784,
+          "“Pick battles big enough to matter and small enough to win.”"
+        ]
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Focus on business domains, not use cases",
+      "start_line": 788,
+      "end_line": 1050,
+      "file": "chapters/ch03.md",
+      "sections": [
+        [
+          790,
+          "Focus on business domains, not use cases"
+        ],
+        [
+          804,
+          "Domains or products or journeys or value streams?"
+        ],
+        [
+          810,
+          "The value of a domain-based approach"
+        ],
+        [
+          816,
+          "Defining domains"
+        ],
+        [
+          857,
+          "The elements of a domain transformation"
+        ],
+        [
+          869,
+          "RULE OF THUMB"
+        ],
+        [
+          871,
+          "Number of domains"
+        ],
+        [
+          879,
+          "Domain transformation architecture"
+        ],
+        [
+          885,
+          "Data"
+        ],
+        [
+          903,
+          "Technology"
+        ],
+        [
+          923,
+          "Prioritizing domains"
+        ],
+        [
+          927,
+          "Domains are prioritized based on value and feasibility"
+        ]
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Have business leaders lead the reimagination of their domain",
+      "start_line": 1051,
+      "end_line": 1337,
+      "file": "chapters/ch04.md",
+      "sections": [
+        [
+          1063,
+          "Your domain-to-value delivery implementation playbook"
+        ],
+        [
+          1109,
+          "CASE STUDY"
+        ],
+        [
+          1111,
+          "Stage-gating development to reduce risk"
+        ],
+        [
+          1121,
+          "The process for reimagining a domain"
+        ],
+        [
+          1125,
+          "Five steps for effective domain reimagination"
+        ],
+        [
+          1139,
+          "Roadmap development"
+        ],
+        [
+          1198,
+          "Diagnostic views to surface opportunities"
+        ],
+        [
+          1225,
+          "MANAGEMENT TIP"
+        ],
+        [
+          1227,
+          "Zero-cost thinking"
+        ],
+        [
+          1239,
+          "Domain transformation roadmap"
+        ],
+        [
+          1249,
+          "Use-case development roadmap"
+        ],
+        [
+          1251,
+          "See full domain roadmap in Exhibit 4.3"
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Reimagining workflows with agentic AI",
+      "start_line": 1338,
+      "end_line": 1599,
+      "file": "chapters/ch05.md",
+      "sections": [
+        [
+          1340,
+          "Reimagining workflows with agentic AI"
+        ],
+        [
+          1368,
+          "Useful definitions"
+        ],
+        [
+          1380,
+          "Different types of agentic automation"
+        ],
+        [
+          1384,
+          "Four levels of agentic Al"
+        ],
+        [
+          1420,
+          "Looking under the hood of an agentic workflow"
+        ],
+        [
+          1430,
+          "Anatomy of an agentic system"
+        ],
+        [
+          1468,
+          "Selecting the most promising workflows"
+        ],
+        [
+          1524,
+          "Lessons from people building agentic systems"
+        ],
+        [
+          1534,
+          "The best tool for each task"
+        ],
+        [
+          1551,
+          "Evaluation (\"eval\") types"
+        ],
+        [
+          1576,
+          "Five factors for success with GenAI"
+        ],
+        [
+          1596,
+          "“You cannot escape the responsibility of tomorrow by evading today.”"
+        ]
+      ]
+    },
+    {
+      "number": 6,
+      "title": "You’re only as good as the capabilities you build",
+      "start_line": 1600,
+      "end_line": 1782,
+      "file": "chapters/ch06.md",
+      "sections": [
+        [
+          1602,
+          "You’re only as good as the capabilities you build"
+        ],
+        [
+          1626,
+          "Capabilities to build"
+        ],
+        [
+          1650,
+          "Self-assessment tool"
+        ],
+        [
+          1661,
+          "Build capabilities that are fit-for-purpose for your immediate needs"
+        ],
+        [
+          1685,
+          "How long it takes to build capabilities"
+        ],
+        [
+          1691,
+          "Talent: In-house vs. outsourced"
+        ],
+        [
+          1719,
+          "Three categories of enterprise systems"
+        ],
+        [
+          1731,
+          "Technology: Build vs. buy"
+        ],
+        [
+          1735,
+          "Buyer beware"
+        ],
+        [
+          1745,
+          "Partnering to accelerate capability building"
+        ],
+        [
+          1779,
+          "“No one can whistle a symphony. It takes a whole orchestra to play it.”"
+        ]
+      ]
+    },
+    {
+      "number": 7,
+      "title": "The ultimate corporate team sport",
+      "start_line": 1783,
+      "end_line": 1988,
+      "file": "chapters/ch07.md",
+      "sections": [
+        [
+          1785,
+          "The ultimate corporate team sport"
+        ],
+        [
+          1814,
+          "The CEO"
+        ],
+        [
+          1826,
+          "The chief transformation officer"
+        ],
+        [
+          1832,
+          "Leaders of business lines and business functions"
+        ],
+        [
+          1838,
+          "The CIO, CTO, and CDO"
+        ],
+        [
+          1854,
+          "What about the chief AI officer?"
+        ],
+        [
+          1864,
+          "The chief data officer"
+        ],
+        [
+          1868,
+          "The CHRO"
+        ],
+        [
+          1876,
+          "The CFO"
+        ],
+        [
+          1884,
+          "The CRO"
+        ],
+        [
+          1890,
+          "The board"
+        ],
+        [
+          1898,
+          "Highlights"
+        ]
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Building the tech muscle of your business leaders",
+      "start_line": 1989,
+      "end_line": 2117,
+      "file": "chapters/ch08.md",
+      "sections": [
+        [
+          1991,
+          "Building the tech muscle of your business leaders"
+        ],
+        [
+          2023,
+          "How you build a tech muscle"
+        ],
+        [
+          2058,
+          "Becoming a tech-savvy leader"
+        ],
+        [
+          2072,
+          "How the C-suite can develop more tech-capable business leaders"
+        ],
+        [
+          2082,
+          "Incentives that encourage business reimagination"
+        ]
+      ]
+    },
+    {
+      "number": 9,
+      "title": "The big IT talent ‘surgery’",
+      "start_line": 2118,
+      "end_line": 2448,
+      "file": "chapters/ch09.md",
+      "sections": [
+        [
+          2120,
+          "The big IT talent ‘surgery’"
+        ],
+        [
+          2151,
+          "CASE STUDY"
+        ],
+        [
+          2153,
+          "The story of DBS Bank"
+        ],
+        [
+          2163,
+          "Bringing top talent in house"
+        ],
+        [
+          2177,
+          "From traditional tech talent skill pyramid to diamond shape"
+        ],
+        [
+          2190,
+          "How agentic AI could impact the dynamics of insourcing and outsourcing"
+        ],
+        [
+          2198,
+          "The rise of the one-pizza team"
+        ],
+        [
+          2208,
+          "From two-pizza teams to one-pizza teams"
+        ],
+        [
+          2225,
+          "Current state"
+        ],
+        [
+          2229,
+          "Agile team"
+        ],
+        [
+          2260,
+          "Near-term state"
+        ],
+        [
+          2264,
+          "GenAI-augmented agile team"
+        ]
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Creating an environment where tech talent thrives",
+      "start_line": 2449,
+      "end_line": 2672,
+      "file": "chapters/ch10.md",
+      "sections": [
+        [
+          2451,
+          "Creating an environment where tech talent thrives"
+        ],
+        [
+          2466,
+          "Elevating tech talent"
+        ],
+        [
+          2480,
+          "Hiring tech talent when they're actually interviewing you"
+        ],
+        [
+          2520,
+          "The ‘talent win room’ that can build your tech team"
+        ],
+        [
+          2534,
+          "Recognize distinctive technologists"
+        ],
+        [
+          2584,
+          "Career progression for a data scientist"
+        ],
+        [
+          2606,
+          "Fostering craftmanship excellence"
+        ],
+        [
+          2617,
+          "Define skills expectations"
+        ],
+        [
+          2635,
+          "Sample learning journey for a cloud engineer"
+        ],
+        [
+          2645,
+          "The role of the CHRO"
+        ]
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Rethinking your talent model for an agentic world",
+      "start_line": 2673,
+      "end_line": 2983,
+      "file": "chapters/ch11.md",
+      "sections": [
+        [
+          2675,
+          "Rethinking your talent model for an agentic world"
+        ],
+        [
+          2679,
+          "John and his Al agent team"
+        ],
+        [
+          2701,
+          "Colleen and her AI agent team"
+        ],
+        [
+          2729,
+          "How AI agents could accelerate operational agility $ ^{1} $"
+        ],
+        [
+          2745,
+          "New roles, new skills for the agentic age"
+        ],
+        [
+          2751,
+          "Al agent: A simple overview of the system"
+        ],
+        [
+          2756,
+          "Human actions to shape agent behavior"
+        ],
+        [
+          2796,
+          "Reorder planning agent for OEM parts"
+        ],
+        [
+          2803,
+          "1. Managers: From supervisors to orchestrators"
+        ],
+        [
+          2811,
+          "2. Experts: From practitioners to agent coaches"
+        ],
+        [
+          2819,
+          "3. Business leaders: From domain owners to system integrators"
+        ],
+        [
+          2833,
+          "How organizational models could evolve"
+        ]
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Go team! The ground floor of your operating model",
+      "start_line": 2984,
+      "end_line": 3243,
+      "file": "chapters/ch12.md",
+      "sections": [
+        [
+          2986,
+          "Go team! The ground floor of your operating model"
+        ],
+        [
+          3002,
+          "Understanding the software development life cycle"
+        ],
+        [
+          3019,
+          "How they fit: SDLC and domain-to-value delivery process"
+        ],
+        [
+          3029,
+          "Get the right people on your teams"
+        ],
+        [
+          3040,
+          "RULE OF THUMB"
+        ],
+        [
+          3042,
+          "Impact of GenAI on role taxonomy"
+        ],
+        [
+          3046,
+          "Typical roles in a cross-functional delivery team"
+        ],
+        [
+          3070,
+          "Team archetypes and typical staffing by solution life cycle phases"
+        ],
+        [
+          3085,
+          "MANAGEMENT TIP"
+        ],
+        [
+          3087,
+          "Estimating overall talent needs"
+        ],
+        [
+          3093,
+          "What's really 'agile' about agile software development"
+        ],
+        [
+          3129,
+          "Waterfall vs. agile development optimization philosophy"
+        ]
+      ]
+    },
+    {
+      "number": 13,
+      "title": "The revolutionary idea: Embedding engineering talent in the business",
+      "start_line": 3244,
+      "end_line": 3589,
+      "file": "chapters/ch13.md",
+      "sections": [
+        [
+          3246,
+          "The revolutionary idea: Embedding engineering talent in the business"
+        ],
+        [
+          3256,
+          "Traditional vs. distributed operating models"
+        ],
+        [
+          3275,
+          "Traditional: 89% of companies"
+        ],
+        [
+          3283,
+          "Distributed: 11% of companies"
+        ],
+        [
+          3297,
+          "Anatomy of a distributed model and its value"
+        ],
+        [
+          3322,
+          "5 Chapter"
+        ],
+        [
+          3333,
+          "Domain"
+        ],
+        [
+          3344,
+          "Team"
+        ],
+        [
+          3352,
+          "Operations unit"
+        ],
+        [
+          3363,
+          "Platform"
+        ],
+        [
+          3395,
+          "Which type of distributed operating model best suits your business?"
+        ],
+        [
+          3403,
+          "Three types of distributed operating models"
+        ]
+      ]
+    },
+    {
+      "number": 14,
+      "title": "The blueprint for a faster enterprise",
+      "start_line": 3590,
+      "end_line": 4031,
+      "file": "chapters/ch14.md",
+      "sections": [
+        [
+          3592,
+          "The blueprint for a faster enterprise"
+        ],
+        [
+          3602,
+          "Elements of the design blueprint"
+        ],
+        [
+          3701,
+          "Start with the “Why”"
+        ],
+        [
+          3723,
+          "The business case construct for a new operating model"
+        ],
+        [
+          3736,
+          "How long it takes to develop a blueprint"
+        ],
+        [
+          3740,
+          "Scope and unit design"
+        ],
+        [
+          3744,
+          "Scope of the model: Balancing impact with ease of implementation"
+        ],
+        [
+          3758,
+          "Unit design: Staying true to the model"
+        ],
+        [
+          3770,
+          "Simplified placemat view for three industries"
+        ],
+        [
+          3781,
+          "Anatomy of a domain"
+        ],
+        [
+          3834,
+          "Make sure your talent is ready"
+        ],
+        [
+          3838,
+          "Management system"
+        ]
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Making the transition in a controlled way",
+      "start_line": 4032,
+      "end_line": 4217,
+      "file": "chapters/ch15.md",
+      "sections": [
+        [
+          4034,
+          "Making the transition in a controlled way"
+        ],
+        [
+          4046,
+          "Leadership of the transition and transformation architecture"
+        ],
+        [
+          4060,
+          "MANAGEMENT TIP"
+        ],
+        [
+          4062,
+          "Find a leader with transformation skills"
+        ],
+        [
+          4066,
+          "Transformation architecture"
+        ],
+        [
+          4080,
+          "Cross-functional teams"
+        ],
+        [
+          4085,
+          "Op model lead"
+        ],
+        [
+          4094,
+          "Enablement lead"
+        ],
+        [
+          4101,
+          "Benefits lead"
+        ],
+        [
+          4110,
+          "Workforce lead"
+        ],
+        [
+          4117,
+          "Change lead"
+        ],
+        [
+          4123,
+          "Functionally aligned teams"
+        ]
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Building a new business? There’s an operating model for that",
+      "start_line": 4218,
+      "end_line": 4431,
+      "file": "chapters/ch16.md",
+      "sections": [
+        [
+          4220,
+          "Building a new business? There’s an operating model for that"
+        ],
+        [
+          4238,
+          "Three key features of an operating model for a new business"
+        ],
+        [
+          4240,
+          "1. Address your speed bumps early so you can tackle many things in parallel."
+        ],
+        [
+          4264,
+          "2. Hitting the right balance: A culture of speed that's consistent with parent company values."
+        ],
+        [
+          4293,
+          "Bringing the new venture back inside the company"
+        ],
+        [
+          4303,
+          "3. Build for now (scrappy) and for the future (scalable)"
+        ],
+        [
+          4309,
+          "Scrappiness is a loan you must repay."
+        ],
+        [
+          4315,
+          "Scrappy vs. scalable"
+        ],
+        [
+          4334,
+          "Highlights"
+        ],
+        [
+          4354,
+          "The silent killers of an operating model are traditional decision"
+        ],
+        [
+          4360,
+          "Where are you on the journey?"
+        ],
+        [
+          4376,
+          "Q4. Is your operating model driving better business performance than peers?"
+        ]
+      ]
+    },
+    {
+      "number": 17,
+      "title": "The platforms that power the enterprise",
+      "start_line": 4432,
+      "end_line": 4530,
+      "file": "chapters/ch17.md",
+      "sections": [
+        [
+          4434,
+          "The platforms that power the enterprise"
+        ],
+        [
+          4438,
+          "Business questions this chapter will help you answer"
+        ],
+        [
+          4452,
+          "What are platforms anyway and why do they matter?"
+        ],
+        [
+          4460,
+          "Types of platforms"
+        ],
+        [
+          4476,
+          "Understanding how solutions are built and the role of platforms"
+        ],
+        [
+          4517,
+          "Questions that matter"
+        ],
+        [
+          4527,
+          "“We shape our buildings; thereafter they shape us.”"
+        ]
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Make your tech flexible and scalable—hello APIs!",
+      "start_line": 4531,
+      "end_line": 4653,
+      "file": "chapters/ch18.md",
+      "sections": [
+        [
+          4545,
+          "Business questions this chapter will help you answer"
+        ],
+        [
+          4557,
+          "Adopt APIs, but manage their proliferation with a platform"
+        ],
+        [
+          4571,
+          "Model Context Protocol, the new \"API\" for AI agents"
+        ],
+        [
+          4600,
+          "IN THEIR WORDS"
+        ],
+        [
+          4602,
+          "How APIs and the API platform are built"
+        ],
+        [
+          4620,
+          "Meet your new best friend: The enterprise architect"
+        ],
+        [
+          4628,
+          "Enterprise architect or solution architect, what's the difference?"
+        ],
+        [
+          4640,
+          "Questions that matter"
+        ],
+        [
+          4650,
+          "“Engineers turn dreams into reality.”"
+        ]
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Engineering practices for speed and quality",
+      "start_line": 4654,
+      "end_line": 4830,
+      "file": "chapters/ch19.md",
+      "sections": [
+        [
+          4656,
+          "Engineering practices for speed and quality"
+        ],
+        [
+          4660,
+          "Business questions this chapter will help you answer"
+        ],
+        [
+          4670,
+          "The journey to software engineering excellence"
+        ],
+        [
+          4690,
+          "Building an engineering platform"
+        ],
+        [
+          4714,
+          "Testing strategies"
+        ],
+        [
+          4720,
+          "EXHIBIT 19.1"
+        ],
+        [
+          4726,
+          "Engineering platform enables DevOps"
+        ],
+        [
+          4744,
+          "MANAGEMENT TIP"
+        ],
+        [
+          4746,
+          "Drive agile and engineering platform adoption together"
+        ],
+        [
+          4750,
+          "Technical debt: What it is and how to reduce it"
+        ],
+        [
+          4762,
+          "Delivering production-grade digital solutions"
+        ],
+        [
+          4774,
+          "DevOps engineers vs. site reliability engineers"
+        ]
+      ]
+    },
+    {
+      "number": 20,
+      "title": "The AI revolution in software development",
+      "start_line": 4831,
+      "end_line": 4998,
+      "file": "chapters/ch20.md",
+      "sections": [
+        [
+          4833,
+          "The AI revolution in software development"
+        ],
+        [
+          4847,
+          "Business questions this chapter will help you answer"
+        ],
+        [
+          4861,
+          "A paradigm shift in software development"
+        ],
+        [
+          4880,
+          "Best practices for adopting AI in software development"
+        ],
+        [
+          4911,
+          "IBM's end-to-end software development transformation"
+        ],
+        [
+          4923,
+          "A factory of AI agents: How does that work?"
+        ],
+        [
+          4985,
+          "Questions that matter"
+        ],
+        [
+          4995,
+          "“What is essential is invisible to the eye.”"
+        ]
+      ]
+    },
+    {
+      "number": 21,
+      "title": "An AI platform to accelerate model development",
+      "start_line": 4999,
+      "end_line": 5171,
+      "file": "chapters/ch21.md",
+      "sections": [
+        [
+          5001,
+          "An AI platform to accelerate model development"
+        ],
+        [
+          5005,
+          "Business questions this chapter will help you answer"
+        ],
+        [
+          5019,
+          "How DBS industrialized the production of AI models"
+        ],
+        [
+          5042,
+          "Architecture of AI platforms"
+        ],
+        [
+          5046,
+          "AI platform architecture"
+        ],
+        [
+          5071,
+          "Should you build or buy your AI platform?"
+        ],
+        [
+          5093,
+          "form"
+        ],
+        [
+          5099,
+          "Best practices for building an AI platform"
+        ],
+        [
+          5134,
+          "Verizon's AI platform"
+        ],
+        [
+          5158,
+          "Questions to ask"
+        ],
+        [
+          5168,
+          "“Everything should be made as simple as possible, but not simpler.”"
+        ]
+      ]
+    },
+    {
+      "number": 22,
+      "title": "The art of developing agentic AI solutions",
+      "start_line": 5172,
+      "end_line": 5567,
+      "file": "chapters/ch22.md",
+      "sections": [
+        [
+          5174,
+          "The art of developing agentic AI solutions"
+        ],
+        [
+          5190,
+          "Business questions this chapter will help you answer"
+        ],
+        [
+          5202,
+          "What agents can (and can't yet) do"
+        ],
+        [
+          5206,
+          "A task-level view of agentic competencies"
+        ],
+        [
+          5240,
+          "The criteria for assessing AI agent usage types"
+        ],
+        [
+          5248,
+          "Industry examples"
+        ],
+        [
+          5254,
+          "Design workflows with ‘constrained’ agents"
+        ],
+        [
+          5274,
+          "Agentic AI workflow for claims adjudication and communication of review outcome"
+        ],
+        [
+          5320,
+          "Additional agent services"
+        ],
+        [
+          5332,
+          "Be smarter with inputs to get better outputs"
+        ],
+        [
+          5344,
+          "RAG vs. context engineering"
+        ],
+        [
+          5358,
+          "Test early and often"
+        ]
+      ]
+    },
+    {
+      "number": 23,
+      "title": "A more surgical approach to modernizing core systems",
+      "start_line": 5568,
+      "end_line": 5813,
+      "file": "chapters/ch23.md",
+      "sections": [
+        [
+          5570,
+          "A more surgical approach to modernizing core systems"
+        ],
+        [
+          5574,
+          "Business questions this chapter will help you answer"
+        ],
+        [
+          5588,
+          "The false choice: Modernize first or innovate fast"
+        ],
+        [
+          5606,
+          "• Add latency or fragility to customer- or user-facing experiences."
+        ],
+        [
+          5614,
+          "A roadmap for modernizing IT in support of a Tech & AI transformation"
+        ],
+        [
+          5618,
+          "CASE STUDY"
+        ],
+        [
+          5620,
+          "'Control towers': How Itaú modernized its tech"
+        ],
+        [
+          5652,
+          "Modernizing legacy systems with GenAI"
+        ],
+        [
+          5666,
+          "Resiliency: When core systems break, the business stops"
+        ],
+        [
+          5686,
+          "Pay for what you need: Controlling cloud costs"
+        ],
+        [
+          5702,
+          "Questions that matter"
+        ],
+        [
+          5712,
+          "TIME TO REFLECT"
+        ]
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Start with the value, then get the data",
+      "start_line": 5814,
+      "end_line": 5991,
+      "file": "chapters/ch24.md",
+      "sections": [
+        [
+          5816,
+          "Start with the value, then get the data"
+        ],
+        [
+          5826,
+          "Sound familiar?"
+        ],
+        [
+          5840,
+          "Identifying and prioritizing data"
+        ],
+        [
+          5846,
+          "From business domains to data elements"
+        ],
+        [
+          5862,
+          "Defining key terms"
+        ],
+        [
+          5876,
+          "Assessing data readiness"
+        ],
+        [
+          5888,
+          "Questions that a data roadmap should answer:"
+        ],
+        [
+          5904,
+          "Nine dimensions to assess data quality"
+        ],
+        [
+          5906,
+          "Accuracy"
+        ],
+        [
+          5913,
+          "Timeliness"
+        ],
+        [
+          5917,
+          "3 Consistency"
+        ],
+        [
+          5923,
+          "Uniqueness"
+        ]
+      ]
+    },
+    {
+      "number": 25,
+      "title": "No data architecture, no AI advantage",
+      "start_line": 5992,
+      "end_line": 6139,
+      "file": "chapters/ch25.md",
+      "sections": [
+        [
+          5994,
+          "No data architecture, no AI advantage"
+        ],
+        [
+          6000,
+          "A modern data architecture"
+        ],
+        [
+          6025,
+          "IN THEIR WORDS"
+        ],
+        [
+          6027,
+          "A data platform to enable agility"
+        ],
+        [
+          6035,
+          "Building your data architecture"
+        ],
+        [
+          6051,
+          "Seven data architecture principles that enable scale"
+        ],
+        [
+          6060,
+          "Making your data architecture ready for GenAI"
+        ],
+        [
+          6086,
+          "Cross-cutting"
+        ],
+        [
+          6090,
+          "Access and governance"
+        ],
+        [
+          6104,
+          "Metadata"
+        ],
+        [
+          6112,
+          "Operations"
+        ],
+        [
+          6118,
+          "Enabling the semantic layer"
+        ]
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Data products: The reusable building blocks for scaling",
+      "start_line": 6140,
+      "end_line": 6407,
+      "file": "chapters/ch26.md",
+      "sections": [
+        [
+          6160,
+          "More data definitions"
+        ],
+        [
+          6179,
+          "Data products power digital twins"
+        ],
+        [
+          6193,
+          "The legacy data setup in many organizations can be complex and inefficient"
+        ],
+        [
+          6210,
+          "A data product approach results in standardization that saves time and money"
+        ],
+        [
+          6221,
+          "Show me the value: Data products with real ROI"
+        ],
+        [
+          6230,
+          "The most valuable products"
+        ],
+        [
+          6236,
+          "Prioritizing data products by understanding the value enabled"
+        ],
+        [
+          6264,
+          "Building data products"
+        ],
+        [
+          6272,
+          "Anatomy of a data product"
+        ],
+        [
+          6288,
+          "Do data products replicate data from the data platform?"
+        ],
+        [
+          6294,
+          "Construction of the data product team"
+        ],
+        [
+          6302,
+          "Successful data product teams balance business and tech expertise"
+        ]
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Organize to get the most from your data",
+      "start_line": 6408,
+      "end_line": 6527,
+      "file": "chapters/ch27.md",
+      "sections": [
+        [
+          6410,
+          "Organize to get the most from your data"
+        ],
+        [
+          6418,
+          "A centralized or federated data org model?"
+        ],
+        [
+          6436,
+          "Typical setup across different data management activities"
+        ],
+        [
+          6466,
+          "Getting data governance right"
+        ],
+        [
+          6476,
+          "The common elements of good data governance"
+        ],
+        [
+          6490,
+          "Global regulators are converging around a common set of data governance expectations"
+        ]
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Protecting data in an LLM world",
+      "start_line": 6528,
+      "end_line": 6691,
+      "file": "chapters/ch28.md",
+      "sections": [
+        [
+          6530,
+          "Protecting data in an LLM world"
+        ],
+        [
+          6538,
+          "The real risk: Not outside the firewall, but inside"
+        ],
+        [
+          6566,
+          "A world where identity belongs to machines"
+        ],
+        [
+          6578,
+          "Inference: When models reveal more than they receive"
+        ],
+        [
+          6584,
+          "The shift to data-in-use protection"
+        ],
+        [
+          6644,
+          "Human oversight where it matters"
+        ],
+        [
+          6650,
+          "Codifying rights and consent in business collaborations"
+        ],
+        [
+          6674,
+          "Building confidence with proof"
+        ],
+        [
+          6688,
+          "“Not everything that is faced can be changed, but nothing can be changed until it is faced.”"
+        ]
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Your next strategic duty: Create a proprietary data advantage",
+      "start_line": 6692,
+      "end_line": 6935,
+      "file": "chapters/ch29.md",
+      "sections": [
+        [
+          6694,
+          "Your next strategic duty: Create a proprietary data advantage"
+        ],
+        [
+          6704,
+          "How to identify where proprietary data can make the biggest difference"
+        ],
+        [
+          6724,
+          "Automating data capture"
+        ],
+        [
+          6747,
+          "CASE STUDY"
+        ],
+        [
+          6749,
+          "Building a business case for automated data capture"
+        ],
+        [
+          6773,
+          "Enrich the data by using it"
+        ],
+        [
+          6777,
+          "Data enrichment comes less from expanding volume than from"
+        ],
+        [
+          6789,
+          "Data as an explicitly managed asset class"
+        ],
+        [
+          6815,
+          "TIME TO REFLECT"
+        ],
+        [
+          6817,
+          "Highlights"
+        ],
+        [
+          6833,
+          "Where are you on the journey?"
+        ],
+        [
+          6910,
+          "MANAGEMENT TIP"
+        ]
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Make adoption stick",
+      "start_line": 6936,
+      "end_line": 7109,
+      "file": "chapters/ch30.md",
+      "sections": [
+        [
+          6938,
+          "Make adoption stick"
+        ],
+        [
+          6966,
+          "Make the end user a 'copilot' during development"
+        ],
+        [
+          6983,
+          "Driving adoption with claims handlers at Aviva"
+        ],
+        [
+          7009,
+          "Influence your end users"
+        ],
+        [
+          7013,
+          "Influence model in action"
+        ],
+        [
+          7017,
+          "Leadership engagement and role modeling"
+        ],
+        [
+          7023,
+          "Role-based trainings and skill building"
+        ],
+        [
+          7029,
+          "Compelling change story and communications"
+        ],
+        [
+          7049,
+          "Adapt the business model"
+        ],
+        [
+          7057,
+          "CASE STUDY"
+        ],
+        [
+          7059,
+          "How Toyota managed the interdependencies of change"
+        ],
+        [
+          7069,
+          "End-to-end process impact assessment"
+        ]
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Design solutions for scale and reuse",
+      "start_line": 7110,
+      "end_line": 7300,
+      "file": "chapters/ch31.md",
+      "sections": [
+        [
+          7112,
+          "Design solutions for scale and reuse"
+        ],
+        [
+          7132,
+          "Sequencing options for scaling"
+        ],
+        [
+          7155,
+          "Daimler's international scaling approach"
+        ],
+        [
+          7200,
+          "Assetization: Your solution reuse method"
+        ],
+        [
+          7213,
+          "RULE OF THUMB"
+        ],
+        [
+          7215,
+          "Reusability range"
+        ],
+        [
+          7253,
+          "Deployment time reduction through assetization"
+        ],
+        [
+          7297,
+          "“If you don’t set goals and measure progress, all you have is good intentions.”"
+        ]
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Ensuring impact by tracking what matters",
+      "start_line": 7301,
+      "end_line": 7551,
+      "file": "chapters/ch32.md",
+      "sections": [
+        [
+          7303,
+          "Ensuring impact by tracking what matters"
+        ],
+        [
+          7311,
+          "What's the difference: KPI vs. OKR"
+        ],
+        [
+          7319,
+          "Ensuring value capture with performance KPIs"
+        ],
+        [
+          7333,
+          "A value driver tree to identify where digital solutions impact KPIs"
+        ],
+        [
+          7380,
+          "Business and operational KPIs linked to solution team OKRs"
+        ],
+        [
+          7395,
+          "Value creation metrics for claims and services for an insurance provider"
+        ],
+        [
+          7405,
+          "Vv.ers"
+        ],
+        [
+          7437,
+          "Team maturity assessment"
+        ],
+        [
+          7473,
+          "Tracking progress"
+        ],
+        [
+          7479,
+          "The intent is not to “slow down” the engineers but to gain"
+        ],
+        [
+          7489,
+          "Transformation tracking through stage gates"
+        ],
+        [
+          7503,
+          "Performance tracking for solution development"
+        ]
+      ]
+    },
+    {
+      "number": 33,
+      "title": "Plan for midstream adjustments",
+      "start_line": 7552,
+      "end_line": 7663,
+      "file": "chapters/ch33.md",
+      "sections": [
+        [
+          7554,
+          "Plan for midstream adjustments"
+        ],
+        [
+          7566,
+          "Roadmap and value challenges"
+        ],
+        [
+          7568,
+          "The issue: Getting domain leaders to commit."
+        ],
+        [
+          7572,
+          "The solution: Give them ownership and smooth the runway."
+        ],
+        [
+          7578,
+          "The issue: Scaling costs start to spiral."
+        ],
+        [
+          7600,
+          "Talent challenges"
+        ],
+        [
+          7618,
+          "Operating model challenges"
+        ],
+        [
+          7630,
+          "Data challenges"
+        ],
+        [
+          7640,
+          "Tech challenges"
+        ],
+        [
+          7648,
+          "Change management challenge"
+        ],
+        [
+          7660,
+          "“Earn trust, earn trust, earn trust. Then you can worry about the rest.”"
+        ]
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Risk, trust, and the right to deploy AI",
+      "start_line": 7664,
+      "end_line": 7821,
+      "file": "chapters/ch34.md",
+      "sections": [
+        [
+          7666,
+          "Risk, trust, and the right to deploy AI"
+        ],
+        [
+          7685,
+          "IN THEIR WORDS"
+        ],
+        [
+          7687,
+          "The question of trust"
+        ],
+        [
+          7711,
+          "Building trust in the “AI @ Morgan Stanley Assistant”"
+        ],
+        [
+          7721,
+          "Triaging the risks"
+        ],
+        [
+          7739,
+          "Reviewing policies"
+        ],
+        [
+          7745,
+          "Responsible AI"
+        ],
+        [
+          7769,
+          "Operationalizing your risk policies"
+        ],
+        [
+          7798,
+          "RULE OF THUMB"
+        ],
+        [
+          7800,
+          "Amount of code focused on reducing risk"
+        ],
+        [
+          7804,
+          "Raise awareness and pattern recognition"
+        ],
+        [
+          7818,
+          "“Culture does not make people. People make culture.”"
+        ]
+      ]
+    },
+    {
+      "number": 35,
+      "title": "So, what about culture?",
+      "start_line": 7822,
+      "end_line": 8042,
+      "file": "chapters/ch35.md",
+      "sections": [
+        [
+          7824,
+          "So, what about culture?"
+        ],
+        [
+          7844,
+          "Building capabilities that shape new cultural norms"
+        ],
+        [
+          7854,
+          "What this culture shift looks like"
+        ],
+        [
+          7860,
+          "DBS cultural evolution"
+        ],
+        [
+          7887,
+          "Mindsets change fastest when leaders change what they reward."
+        ],
+        [
+          7902,
+          "CASE STUDY"
+        ],
+        [
+          7904,
+          "Scaling culture through institutional learning"
+        ],
+        [
+          7935,
+          "Indosat Ooredoo Hutchison leans into building AI skills across the organization"
+        ],
+        [
+          7971,
+          "Highlights"
+        ],
+        [
+          7991,
+          "Where are you on the journey?"
+        ]
+      ]
+    },
+    {
+      "number": 36,
+      "title": "LATAM Airlines: Creating an 'airline in your pocket'",
+      "start_line": 8043,
+      "end_line": 8204,
+      "file": "chapters/ch36.md",
+      "sections": [
+        [
+          8049,
+          "About LATAM Airlines"
+        ],
+        [
+          8067,
+          "Setting high ambitions and learning from the past"
+        ],
+        [
+          8085,
+          "Creating a separate digital organization to accelerate the change"
+        ],
+        [
+          8111,
+          "Investing in advanced tech foundations for scale and reuse"
+        ],
+        [
+          8133,
+          "Scaling a successful pilot program to other markets"
+        ],
+        [
+          8155,
+          "Finding more analytical horsepower for the next phase of the transformation"
+        ],
+        [
+          8183,
+          "Rethinking work around humans and AI agents"
+        ]
+      ]
+    },
+    {
+      "number": 37,
+      "title": "Toyota: From kaizen improvements to big leaps in value",
+      "start_line": 8205,
+      "end_line": 8364,
+      "file": "chapters/ch37.md",
+      "sections": [
+        [
+          8211,
+          "About Toyota Motor North America"
+        ],
+        [
+          8229,
+          "From continuous improvement to bold ambition"
+        ],
+        [
+          8257,
+          "Putting the business in charge and the customer at the center"
+        ],
+        [
+          8273,
+          "Building a platform of interlinking and scaling technologies"
+        ],
+        [
+          8301,
+          "Making the data work so the models could work"
+        ],
+        [
+          8311,
+          "An orchestration layer to run it all"
+        ],
+        [
+          8325,
+          "Embedding experts into the process to build trust and ensure adoption"
+        ],
+        [
+          8343,
+          "The value of upskilling"
+        ]
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Freeport-McMoRan: Harnessing Tech & AI for mining innovation",
+      "start_line": 8365,
+      "end_line": 8550,
+      "file": "chapters/ch38.md",
+      "sections": [
+        [
+          8371,
+          "About Freeport-McMoRan"
+        ],
+        [
+          8389,
+          "Identifying the value to build conviction"
+        ],
+        [
+          8399,
+          "The first phase of Freeport's transformation"
+        ],
+        [
+          8435,
+          "Building the ‘Leach to the Last Drop’ team"
+        ],
+        [
+          8461,
+          "Mining for data to power AI"
+        ],
+        [
+          8473,
+          "The digital twin at the center of stockpile ops"
+        ],
+        [
+          8501,
+          "A platform for analysis and collaboration"
+        ],
+        [
+          8523,
+          "Building an entrepreneurial culture"
+        ]
+      ]
+    },
+    {
+      "number": 39,
+      "title": "DBS Bank: A multinational bank goes all in on AI",
+      "start_line": 8551,
+      "end_line": 8710,
+      "file": "chapters/ch39.md",
+      "sections": [
+        [
+          8557,
+          "About DBS Bank"
+        ],
+        [
+          8575,
+          "DBS's first phase: Transforming to become digital to the core"
+        ],
+        [
+          8587,
+          "Balancing long-term capability building with near-term value creation"
+        ],
+        [
+          8601,
+          "Mastering data for the AI age"
+        ],
+        [
+          8621,
+          "Platforms and products: Making the data ready to use"
+        ],
+        [
+          8633,
+          "Accelerating time to value with an AI platform"
+        ],
+        [
+          8651,
+          "A broad approach to building AI skills"
+        ],
+        [
+          8667,
+          "Embedding AI into customer and user journeys"
+        ],
+        [
+          8691,
+          "Jumping into GenAI thanks to strong foundations"
+        ]
+      ]
+    }
+  ],
+  "backmatter_start_line": 8711,
+  "generated": "2026-11-12"
+}
